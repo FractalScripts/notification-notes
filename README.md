@@ -110,22 +110,22 @@ Useful for small thoughts you don't want forgetting but are not important enough
 
 ---
 
-###### **This app is Free and Open Source.**
+<sub>**This app is Free and Open Source.**</sub>
 
-- ###### You may use it and modify it for your own purposes
+- <sub>You may use it and modify it for your own purposes</sub>
 
-- ###### You may redistribute *unmodified* versions as long as you link back to this site
+- <sub>You may redistribute *unmodified* versions as long as you link back to this site</sub>
 
-- ###### You may redistribute *modified* versions as long as you link back to this site AND explain exactly what has been modified.
+- <sub>You may redistribute *modified* versions as long as you link back to this site AND explain exactly what has been modified.</sub>
 
-- ###### You may **NOT** redistribute modified or unmodified versions for financial gain
+- <sub>You may **NOT** redistribute modified or unmodified versions for financial gain</sub>
 
-- ###### You may **NOT** redistribute modified or unmodified versions without credit
+- <sub>You may **NOT** redistribute modified or unmodified versions without credit</sub>
 
-- ###### You may **NOT** redistribute modified or unmodified versions that might harm or cause unwanted behaviour on the user's end
+- <sub>You may **NOT** redistribute modified or unmodified versions that might harm or cause unwanted behaviour on the user's end</sub>
 
-- ###### You may **NOT** use this application or any of it's contents for malicious or illegal purposes
+- <sub>You may **NOT** use this application or any of it's contents for malicious or illegal purposes</sub>
 
-- ###### I take **NO** responsibility for versions that have been modified
+- <sub>I take **NO** responsibility for versions that have been modified</sub>
   
-  - ###### The safest way is to download directly from the [official GitHub repository](https://github.com/FractalScripts/notification-notes)
+  - <sub>The safest way is to download directly from the [official GitHub repository](https://github.com/FractalScripts/notification-notes)</sub>
