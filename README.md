@@ -110,22 +110,22 @@ Useful for small thoughts you don't want forgetting but are not important enough
 
 ---
 
-**This app is Free and Open Source.**
+###### **This app is Free and Open Source.**
 
-- You may use it and modify it for your own purposes
+- ###### You may use it and modify it for your own purposes
 
-- You may redistribute *unmodified* versions as long as you link back to this site
+- ###### You may redistribute *unmodified* versions as long as you link back to this site
 
-- You may redistribute *modified* versions as long as you link back to this site AND explain exactly what has been modified.
+- ###### You may redistribute *modified* versions as long as you link back to this site AND explain exactly what has been modified.
 
-- You may **NOT** redistribute modified or unmodified versions for financial gain
+- ###### You may **NOT** redistribute modified or unmodified versions for financial gain
 
-- You may **NOT** redistribute modified or unmodified versions without credit
+- ###### You may **NOT** redistribute modified or unmodified versions without credit
 
-- You may **NOT** redistribute modified or unmodified versions that might harm or cause unwanted behaviour on the user's end
+- ###### You may **NOT** redistribute modified or unmodified versions that might harm or cause unwanted behaviour on the user's end
 
-- You may **NOT** use this application or any of it's contents for malicious or illegal purposes
+- ###### You may **NOT** use this application or any of it's contents for malicious or illegal purposes
 
-- I take **NO** responsibility for versions that have been modified
+- ###### I take **NO** responsibility for versions that have been modified
   
-  - The safest way is to download directly from the [official GitHub repository](https://github.com/FractalScripts/notification-notes)
+  - ###### The safest way is to download directly from the [official GitHub repository](https://github.com/FractalScripts/notification-notes)
