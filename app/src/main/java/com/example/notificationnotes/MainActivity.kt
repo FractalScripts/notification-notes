@@ -230,7 +230,7 @@ class MainActivity : ComponentActivity() {
 
         // Build Notification
         val builder = NotificationCompat.Builder(this, "notification_notes")
-            .setSmallIcon(android.R.drawable.ic_menu_edit)
+            .setSmallIcon(R.drawable.ic_note_tile)
             .setContentTitle(title)
             .setContentText(content)
             .setPriority(NotificationCompat.PRIORITY_LOW)
