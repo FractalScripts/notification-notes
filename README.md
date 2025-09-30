@@ -24,6 +24,8 @@ Useful for small thoughts you don't want forgetting but are not important enough
   
   - Continue what you were doing!
 
+![](img/overlay.png)
+
 - Silent
   
   - Doesn't nag you about it
