@@ -1,3 +1,5 @@
+![](app/src/main/res/mipmap-xxxhdpi/ic_icon_round.webp)
+
 # Notification Notes
 
 ---
@@ -6,9 +8,11 @@
 
 ---
 
+![](img/icon.png) ![](img/newnote.png) ![](img/note.png)
+
+---
+
 This app allows you to send text as notifications. You can edit these notifications. The UI is a simple Material You popup that does not disrupt your flow.
-
-
 
 Useful for small thoughts you don't want forgetting but are not important enough to put in a notes app.
 
@@ -27,8 +31,9 @@ Useful for small thoughts you don't want forgetting but are not important enough
 - Editable
   
   - Tap the notification note to edit it!
-
-- Multiline content
+    ![](img/edit.png) ![](img/editednote.png)
+  
+  - - Multiline content
   
   - You can make lists!
 
@@ -73,32 +78,26 @@ Useful for small thoughts you don't want forgetting but are not important enough
    - You can scan it if you want, it really doesn't matter.
 
 4- Some phones will not add the app to the home screen if it's installed from a file.
-   
-   - Go to your app drawer and search for "Note".
+
+- Go to your app drawer and search for "Note".
 
 5- ***IMPORTANT!*** Make sure to **give the app notification permissions.**
-   
+
    1- Long press the app icon and select "App info".
-   
+
    2- Tap "Notifications" and turn them on.
 
 6- **How to enable Quick Tile:**
-   
+
    1- Go to your quick tile page and tap the edit button. (Usually a little pen/pencil icon.)
-   
+
    2- Scroll down to the Installed Apps section and search for a pen icon that has the label "New note" or "Notification Note"
-   
+
    3- Drag it up and pin it
-
-
 
 ---
 
-
-
 **This app is Free and Open Source.**
-
-
 
 - You may use it and modify it for your own purposes
 
@@ -117,5 +116,3 @@ Useful for small thoughts you don't want forgetting but are not important enough
 - I take **NO** responsibility for versions that have been modified
   
   - The safest way is to download directly from the official GitHub repository
-
-
