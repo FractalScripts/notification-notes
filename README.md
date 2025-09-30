@@ -31,11 +31,12 @@ Useful for small thoughts you don't want forgetting but are not important enough
 - Editable
   
   - Tap the notification note to edit it!
-    ![](img/edit.png) ![](img/editednote.png)
-  
-  - - Multiline content
-  
-  - You can make lists!
+
+![](img/edit.png) ![](img/editednote.png)
+
+- - Multiline content
+
+- You can make lists!
 
 - Quick tile
   
