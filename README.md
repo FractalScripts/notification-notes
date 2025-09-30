@@ -124,7 +124,7 @@ Useful for small thoughts you don't want forgetting but are not important enough
 
 - <sub>You may **NOT** redistribute modified or unmodified versions that might harm or cause unwanted behaviour on the user's end</sub>
 
-- <sub>You may **NOT** use this application or any of it's contents for malicious or illegal purposes</sub>
+- <sub>You may **NOT** use this application or any of its contents for malicious or illegal purposes</sub>
 
 - <sub>I take **NO** responsibility for versions that have been modified</sub>
   
