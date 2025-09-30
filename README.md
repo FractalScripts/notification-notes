@@ -18,7 +18,7 @@ Useful for small thoughts you don't want forgetting but are not important enough
 
 ---
 
-###### Features:
+### Features:
 
 - Simple overlay UI
   
@@ -68,7 +68,7 @@ Useful for small thoughts you don't want forgetting but are not important enough
 
 ---
 
-###### Installation
+### Installation
 
 <sub>(Currently android only)</sub>
 
