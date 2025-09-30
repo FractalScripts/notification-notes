@@ -72,7 +72,7 @@ Useful for small thoughts you don't want forgetting but are not important enough
 
 <sub>(Currently android only)</sub>
 
-1. Go to the **latest release** and download `notificationnotes.apk`
+1. Go to the **[latest release](https://github.com/FractalScripts/notification-notes/releases)** and download `notificationnotes.apk`
 
 2. Run the APK file.
 
@@ -104,9 +104,9 @@ Useful for small thoughts you don't want forgetting but are not important enough
 
 - You may use it and modify it for your own purposes
 
-- You may redistribute unmodified versions as long as you link back to this site
+- You may redistribute *unmodified* versions as long as you link back to this site
 
-- You may redistribute modified versions as long as you link back to this site AND explain exactly what has been modified.
+- You may redistribute *modified* versions as long as you link back to this site AND explain exactly what has been modified.
 
 - You may **NOT** redistribute modified or unmodified versions for financial gain
 
@@ -118,4 +118,4 @@ Useful for small thoughts you don't want forgetting but are not important enough
 
 - I take **NO** responsibility for versions that have been modified
   
-  - The safest way is to download directly from the official GitHub repository
+  - The safest way is to download directly from the [official GitHub repository](https://github.com/FractalScripts/notification-notes)
