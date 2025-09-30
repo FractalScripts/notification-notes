@@ -70,7 +70,7 @@ Useful for small thoughts you don't want forgetting but are not important enough
 
 ### Installation
 
-<sub>(Currently android only)</sub>
+###### (Currently android only)
 
 1. Go to the **[latest release](https://github.com/FractalScripts/notification-notes/releases)** and download `notificationnotes.apk`
 
