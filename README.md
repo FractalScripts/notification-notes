@@ -80,23 +80,33 @@ Useful for small thoughts you don't want forgetting but are not important enough
    
    - You can scan it if you want, it really doesn't matter.
 
-4- Some phones will not add the app to the home screen if it's installed from a file.
+4. Some phones will not add the app to the home screen if it's installed from a file.
+   
+   - Go to your app drawer and search for "Note".
 
-- Go to your app drawer and search for "Note".
+5. ***IMPORTANT!*** Make sure to **give the app notification permissions.**
+   
+   1. Long press the app icon and select "App info".
+   
+   2. Tap "Notifications" and turn them on.
+   
+   3. You can customize how the notes are shown.
+      
+      1. In the notification settings, tap "Notification Notes". (It is sometimes hidden behind "Other".)
+      
+      2. You may change it from Silent to Default if you wish to notice the note more.
+      
+      3. It is highly recommended to **disable** "Show notification dot" and **enable** "Override Do Not Disturb"
+      
+      4. It is also suggested to change the sound to "None" if you are using the "Default" setting
 
-5- ***IMPORTANT!*** Make sure to **give the app notification permissions.**
-
-   1- Long press the app icon and select "App info".
-
-   2- Tap "Notifications" and turn them on.
-
-6- **How to enable Quick Tile:**
-
-   1- Go to your quick tile page and tap the edit button. (Usually a little pen/pencil icon.)
-
-   2- Scroll down to the Installed Apps section and search for a pen icon that has the label "New note" or "Notification Note"
-
-   3- Drag it up and pin it
+6. **How to enable Quick Tile:**
+   
+   1. Go to your quick tile page and tap the edit button. (Usually a little pen/pencil icon.)
+   
+   2. Scroll down to the Installed Apps section and search for a pen icon that has the label "New note" or "Notification Note"
+   
+   3. Drag it up and pin it
 
 ---
 
